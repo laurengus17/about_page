@@ -1,5 +1,6 @@
 import React from 'react';
 import AboutUs from '../AboutUs/AboutUs';
+import Origins from '../Origins/Origins';
 import './AboutLanding.css'
 
 const AboutLanding = () => {
@@ -10,7 +11,7 @@ const AboutLanding = () => {
             <AboutUs />
         </div>
         <div className='origins'>
-            <h2>Origins</h2>
+            <Origins />
         </div>
         <div className='employee_container'>
             <h2>Employee Divs</h2>
