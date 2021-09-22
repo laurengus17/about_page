@@ -1,12 +1,14 @@
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import AboutLanding from './components/AboutLanding/AboutLanding';
+
 
 function App() {
   return (
     <>
     <BrowserRouter>
       <Switch>
-        <Route path='/about' exact={true}>
-
+        <Route path='/' exact={true}>
+          <AboutLanding />
         </Route>
       </Switch>
     </BrowserRouter>
