@@ -1,3 +1,15 @@
 .about_title {
-    color: #1f2a77;
+    color: #3347de;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mission_title {
+    color: #ffffff;
+    font-size: 60px;
+}
+
+.mission_statement {
+    color: #ffffff;
+    font-size: 25px;
 }
