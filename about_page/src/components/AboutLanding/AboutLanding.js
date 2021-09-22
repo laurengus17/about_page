@@ -2,6 +2,7 @@ import React from 'react';
 import AboutUs from '../AboutUs/AboutUs';
 import Origins from '../Origins/Origins';
 import GrowingTeams from '../GrowingTeam/GrowingTeam';
+import AllEmployees from '../Employees/AllEmployees';
 import './AboutLanding.css'
 
 const AboutLanding = () => {
@@ -14,7 +15,7 @@ const AboutLanding = () => {
             <Origins />
         </div>
         <div className='employee_container'>
-            <h2>Employee Divs</h2>
+            <AllEmployees />
         </div>
         <div className='growing_team'>
             <GrowingTeams />
