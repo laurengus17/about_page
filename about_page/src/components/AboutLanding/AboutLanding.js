@@ -1,12 +1,12 @@
 import React from 'react';
 import AboutUs from '../AboutUs/AboutUs';
 import Origins from '../Origins/Origins';
+import GrowingTeams from '../GrowingTeam/GrowingTeam';
 import './AboutLanding.css'
 
 const AboutLanding = () => {
     return (
         <>
-        <h1>Hello from Landing</h1>
         <div className='about_us'>
             <AboutUs />
         </div>
@@ -17,8 +17,7 @@ const AboutLanding = () => {
             <h2>Employee Divs</h2>
         </div>
         <div className='growing_team'>
-            <h2>Image</h2>
-            <h2>What We're Made Of</h2>
+            <GrowingTeams />
         </div>
         </>
     )
