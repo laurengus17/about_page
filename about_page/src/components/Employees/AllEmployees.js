@@ -12,7 +12,7 @@ import './Employees.css'
 const AllEmployees = () => {
     return (
         <>
-        <div className='employees_container'>
+        <div className='employees_each_container'>
             <BrandonV />
             <BrandonM />
             <DannyL />

@@ -5,7 +5,7 @@ const JoinUs = () => {
     return (
         <>
         <div className='employees_display'>
-            <div className='employee_text_container'>
+            <div className='join_text_container'>
                 <p className='join_title'>Want to join our team?</p>
                 <p className='email'>Email us</p>
                 <a className='email_link' href='mailto:Support@SkyFort.io'>Support@SkyFort.io</a>
