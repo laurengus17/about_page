@@ -1,4 +1,6 @@
-background: #0d0f19
+background: 
+overall: #0d0f19
+employees: #151720
 
 text: 
 white: #ffffff

@@ -6,10 +6,10 @@ const BrandonV = () => {
     return (
         <>
         <div className='employees_display'>
-            <img src={bv} alt='brandon' />
+            <img className='employees_image' src={bv} alt='brandon' />
             <div className='employee_text_container'>
-                <p>Brandon Veiseh</p>
-                <p>CEO and Founder</p>
+                <p className='employee_name'>Brandon Veiseh</p>
+                <p className='employee_title'>CEO and Founder</p>
             </div>
         </div>
         </>

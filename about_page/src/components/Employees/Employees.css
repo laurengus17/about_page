@@ -1,0 +1,46 @@
+.employees_display {
+    background-color: #151720;
+}
+
+.employees_image {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+.employee_text_container {
+
+}
+
+.employee_name {
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.employee_title {
+    color: #c2c3c5;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.join_title {
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.email {
+    color: #ffffff;
+}
+
+.email_link {
+    color: #ffffff;
+}
+
+.email_link:hover {
+    color: #3347de;
+}
